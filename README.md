@@ -1,7 +1,10 @@
 # AboutMe
-2024 구름톤 유니브 _ 서랑제 프로젝트
+2024 구름톤 유니브 서랑제 프로젝트
 <br/>
-
+<br/>
+🔗 서비스 링크 : https://aboutme.d1pt3wqvnh1bfv.amplifyapp.com
+<br/>
+<br/>
 ![image](https://github.com/Sohyunnnn/2024_SEORANGJE_ABOUTME_FE/assets/108279922/dddd8a1f-6105-46aa-841e-da25ba9362db)
 
 
